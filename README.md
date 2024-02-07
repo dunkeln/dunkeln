@@ -19,4 +19,4 @@ Don't mind the choice of the name, picked it in my hardcore DC fan phase. Hi, I 
 
 
 ---
-##### Visit my [portfolio](https://dunkeln.github.io) (⚠️ down at the moment, revamping)
+##### Visit my [portfolio](https://dunkeln.github.io) 
