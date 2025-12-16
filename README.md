@@ -40,8 +40,9 @@ A two-stage transformer architecture modeling emergent stochastic behavior in 2D
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  <img width="132px" src="https://raw.githubusercontent.com/dbt-labs/dbt-core/fa1ea14ddfb1d5ae319d5141844910dd53ab2834/etc/dbt-core.svg" title="dbt-core" />
   <img width="32px" src="https://avatars.githubusercontent.com/u/61449322?v=4"/>
-  <img width="140px" src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars_github_logo_rect_dark_name.svg"/>
+  <img width="132px" src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars_github_logo_rect_dark_name.svg"/>
 </p>
 
 ### **Backend / Infrastructure**
