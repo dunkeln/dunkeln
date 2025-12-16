@@ -73,6 +73,6 @@ A two-stage transformer architecture modeling emergent stochastic behavior in 2D
 
 ## 📬 Connect
 - Portfolio → https://dunkeln.github.io  
-- Email → prateek.pravanjan@gmail.com  
+- Email → prateekpravanjan@gmail.com  
 
 ---
